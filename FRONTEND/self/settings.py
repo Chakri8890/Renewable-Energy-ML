@@ -25,7 +25,7 @@ SECRET_KEY = '_v1^jm!7=b**0=vvtp8otw#u_=$+u^4sr_vgf)$+7teon2o3(0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['renewable-energy-ml-1.onrender.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
