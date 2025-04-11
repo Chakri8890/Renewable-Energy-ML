@@ -166,5 +166,5 @@ Werkzeug==3.0.3
 whitenoise==6.8.2
 # widgetsnbextension==4.0.13
 wsproto==1.2.0
-# xgboost==3.0.0
+xgboost==3.0.0
 xhtml2pdf==0.2.16
